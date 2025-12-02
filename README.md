@@ -1,3 +1,6 @@
+Based largely off of the work of the Brilliant people who worked on the ShowUI ecosystem of models, created to increase accuracy and reduce large training workloads for a course Project...
+
+
 WIP
 
 to run simply navigate to the ShowUI.Showui Directory (where we see train_click_nav)
